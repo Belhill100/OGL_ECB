@@ -1,0 +1,2 @@
+C:\Users\ecoll\OneDrive\Escritorio\Quinto Semestre\Computación Grafica\GLSL_Lighting\Debug\TemplateProject.exe
+C:\Users\ecoll\OneDrive\Escritorio\Quinto Semestre\Computación Grafica\GLSL_Lighting\OGL_ECB\Debug\TemplateProject.exe
