@@ -75,6 +75,33 @@ public:
                 glTranslatef(0.0, -3, 0.0);
                 glutSolidTeapot(0.5);
             glPopMatrix();
+
+            glPushMatrix();
+                glRotatef(90, 0, 1, 0);
+                glRotatef(45, 1, 0, 0);
+
+                glutSolidCylinder(0.15, 1, 20, 20);
+            glPopMatrix();
+
+            glPushMatrix();
+                glRotatef(90, 0, 1, 0);
+                glRotatef(135, 1, 0, 0);
+
+                glutSolidCylinder(0.15, 1, 20, 20);
+            glPopMatrix();
+
+            glPushMatrix();
+                glRotatef(90, 0, 1, 0);
+                glRotatef(-135, 1, 0, 0);
+                glutSolidCylinder(0.15, 1, 20, 20);
+            glPopMatrix();
+
+            glPushMatrix();
+                glRotatef(90, 0, 1, 0);
+                glRotatef(-45, 1, 0, 0);
+                glutSolidCylinder(0.15, 1, 20, 20);
+            glPopMatrix();
+
          glPopMatrix();
 
       if (shader) shader->end();
