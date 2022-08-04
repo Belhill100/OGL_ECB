@@ -1,0 +1,7 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  Cerdo.cpp
+C:\Users\ecoll\Downloads\GLSL_Lighting\Cerdo.cpp(7,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\ecoll\Downloads\GLSL_Lighting\Cerdo.cpp(8,22): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\ecoll\Downloads\GLSL_Lighting\Cerdo.cpp(34,32): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+Cerdo.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/SAFESEH'
+  TemplateProject.vcxproj -> C:\Users\ecoll\Downloads\GLSL_Lighting\Debug\TemplateProject.exe
